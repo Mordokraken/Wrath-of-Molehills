@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>../../sprites/bullet_mole.png</file>
+        <file>../../sprites/mole_150-200.png</file>
+        <file>../../sprites/mole_backgrauned.png</file>
+    </qresource>
+</RCC>
